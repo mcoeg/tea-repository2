@@ -1,6 +1,6 @@
 {
   "name": "hyper-test-tea-util2",
-  "version": "1.0.2",
+  "version": "1.0.1",
   "description": "fatser svg utils",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "async": "~0.9.0",
     "dxf-parsing": "^0.3.7",
     "gm": "~1.17.0",
-    "hyper-test-tea-util": "^1.0.2",
+    "hyper-test-tea-util": "^1.0.1",
     "underscore": "~1.7.0",
     "xml2js": "~0.4.4",
     "xmlbuilder": "^2.4.3"
